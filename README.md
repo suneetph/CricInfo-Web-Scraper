@@ -5,6 +5,7 @@ This project scraps the data of world cup 2019 from the cricinfo website and sto
 2) excel file
 3) JSON file
 
+
 Features and Functions:
 1)Minimist:Takes the input from command line
 2)Axios:For making http request from the browser,read the html file

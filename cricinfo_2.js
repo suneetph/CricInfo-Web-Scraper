@@ -51,7 +51,7 @@ responsepromise.then(function(response){
         let spanResult = matchScoreDivs[i].querySelector("p.ds-text-tight-s");                   //result
         match.result = spanResult.textContent;
 
-        // console.log(match);
+        //console.log(match);
         matches.push(match);
     }
     // console.log(matches);

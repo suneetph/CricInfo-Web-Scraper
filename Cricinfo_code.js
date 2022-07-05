@@ -71,8 +71,8 @@ let matchesJSON = JSON.stringify(matches);
     let teamsJSON = JSON.stringify(teams); 
     fs.writeFileSync("teams.json", teamsJSON, "utf-8");
 
-    createExcelFile(teams);//excel
-    createFolders(teams);//pdf
+    createExcelFile(teams); //excel
+    createFolders(teams);   //pdf
 })
 
 function createFolders(teams) {

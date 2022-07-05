@@ -1,13 +1,5 @@
-
 // the purpose of this project is to extract information of worldcup 2019 from cricinfo and present
 // that in the form of excel and pdf scorecards
-
-// npm init -y
-// npm install minimist
-// npm install axios
-// npm install jsdom
-// npm install excel4node
-// npm install pdf-lib
 
 // node cricinfo_1.js --excel=Worldcup.csv --dataFolder=data --source=https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results 
 
